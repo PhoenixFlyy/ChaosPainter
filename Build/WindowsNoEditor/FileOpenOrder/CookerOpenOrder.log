@@ -1,0 +1,1630 @@
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_flare_a.uasset" 1
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_flare_flash.uasset" 2
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_flare_flash_trs.uasset" 3
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_bg_LC.uasset" 4
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_subUV_dynRGB.uasset" 5
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_lightning02_4x4.uasset" 6
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_lightning02_4x4.uasset" 7
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_lightningDust01_4x4.uasset" 8
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_lightningDust01_4x4_nonD.uasset" 9
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 10
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 11
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_primitive_dyn2.uasset" 12
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_nonD.uasset" 13
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_flareVertical02.uasset" 14
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_flare01_primitive.uasset" 15
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_shine01_4x4.uasset" 16
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_shine01R_nonD.uasset" 17
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_dist_noise.uasset" 18
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_smoke_kai.uasset" 19
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_base_turbulence.uasset" 20
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_turbulence_smoke2d_trs.uasset" 21
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_lightning1.uasset" 22
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_lightning1.uasset" 23
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_empty.uasset" 24
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_noise3.uasset" 25
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_dynDust.uasset" 26
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_noise6.uasset" 27
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_smoke2.uasset" 28
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_dynDust2.uasset" 29
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_lightning3.uasset" 30
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_lightning3.uasset" 31
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 32
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 33
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 34
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 35
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 36
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 37
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 38
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Meshes/BaseMaterial.uasset" 39
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 40
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 41
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 42
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 43
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 44
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 45
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PlayerBP/Blueprints/ColorEffectProjectile.uasset" 46
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_MacroVariation.uasset" 47
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 48
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 49
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 50
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Wood_Pine.uasset" 51
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 52
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 53
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 54
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 55
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 56
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 57
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 58
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 59
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 60
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 61
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 62
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 63
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 64
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 65
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 66
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 67
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 68
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 69
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 70
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Particles/M_PaintGunParticle_Right.uasset" 71
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Particles/GPU_PCS_Right.uasset" 72
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Particles/M_PaintGunParticle_Blue.uasset" 73
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Particles/GPUParticleCollisionSystemBLUE.uasset" 74
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Particles/M_PaintGunParticle_Green.uasset" 75
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Particles/GPUParticleCollisionSystemGREEN.uasset" 76
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Particles/M_PaintGunParticle_Red.uasset" 77
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Particles/GPUParticleCollisionSystemRED.uasset" 78
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/IMG_Black.uasset" 79
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PlayerBP/Widgets/BlockDamage.uasset" 80
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PlayerBP/Widgets/BottleBar.uasset" 81
+"../../../Engine/Content/EditorMaterials/Cross.uasset" 82
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PlayerBP/Widgets/Crosshair.uasset" 83
+"../../../Engine/Content/EngineResources/AICON-Red_Low.uasset" 84
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PlayerBP/Widgets/DamageScreen.uasset" 85
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Font/MAGNETOB.uasset" 86
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Font/MAGNETOB_Font.uasset" 87
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Sounds/MenuSound.uasset" 88
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PlayerBP/Widgets/DeathMenu.uasset" 89
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/MySaveGame.uasset" 90
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/Credits.uasset" 91
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PlayerBP/Widgets/MainMenu.uasset" 92
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PlayerBP/Widgets/PauseMenu.uasset" 93
+"../../../Engine/Content/EngineResources/Black.uasset" 94
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_D.uasset" 95
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_M.uasset" 96
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_GrenadeLauncher_N.uasset" 97
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_Master.uasset" 98
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_AssaultRifle_D.uasset" 99
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_AssaultRifle_M.uasset" 100
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_AssaultRifle_N.uasset" 101
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_AssualtRifleVer1_Inst.uasset" 102
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_AssaultRifle_PhysicsAsset.uasset" 103
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_AssaultRifle_Skeleton.uasset" 104
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_AssaultRifle.uasset" 105
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Sounds/Spray.uasset" 106
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PlayerBP/Blueprints/FirstPersonCharacter.uasset" 107
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_Half_Transparency_Blue.uasset" 108
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PlayerBP/Widgets/BlueSphereEffect.uasset" 109
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/BlueColorSphere.uasset" 110
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 111
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 112
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_noise5.uasset" 113
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController.uasset" 114
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_deco_doom.uasset" 115
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_maskRGB3.uasset" 116
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_laser01.uasset" 117
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_shine01R.uasset" 118
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 119
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 120
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 121
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 122
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_dust_longStar.uasset" 123
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_starDust.uasset" 124
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_starDust_sq.uasset" 125
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_laser01.uasset" 126
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_laser01.uasset" 127
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 128
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 129
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 130
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_stone02_2x2.uasset" 131
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_stone02.uasset" 132
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing.uasset" 133
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/Mfunction/MF_ky_AddHilight.uasset" 134
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/Mfunction/MF_ky_MaskToTopUnder.uasset" 135
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController_primitive.uasset" 136
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_noise17.uasset" 137
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_storm01.uasset" 138
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_noise4.uasset" 139
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_stormDeco01.uasset" 140
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_storm01_nonD.uasset" 141
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_vortex04_4x4.uasset" 142
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_vortex04_4x4.uasset" 143
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_vortex04B_4x4_two.uasset" 144
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 145
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Meshes/SM_ky_circleDist06.uasset" 146
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Meshes/SM_ky_quad_centerRot.uasset" 147
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Meshes/SM_ky_tornado07.uasset" 148
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_storm.uasset" 149
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_storm.uasset" 150
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Sounds/GreenColorBlock.uasset" 151
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/GreenEffect.uasset" 152
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_Half_Transparency.uasset" 153
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/T_EV_BlankWhite_01.uasset" 154
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 155
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_BaseColor.uasset" 156
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_BaseColor_Inst.uasset" 157
+"../../../Engine/Content/BasicShapes/Cube.uasset" 158
+"../../../Engine/Content/EditorSounds/GamePreview/PossessPlayer.uasset" 159
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Explosion04.uasset" 160
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Burst_M.uasset" 161
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/Materials/M_Burst.uasset" 162
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 163
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 164
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 165
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 166
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 167
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 168
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 169
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 170
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/P_Explosion.uasset" 171
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/P_Smoke.uasset" 172
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 173
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Spark_Core.uasset" 174
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/Materials/M_Spark.uasset" 175
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/P_Sparks.uasset" 176
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect_Parent.uasset" 177
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PlayerBP/Widgets/AIHealthBar.uasset" 178
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 179
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 180
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_Turret_Base.uasset" 181
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 182
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_Turret_Top_Block.uasset" 183
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AI/Turret_Player/Default.uasset" 184
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AI/Turret_Player/TurretBase.uasset" 185
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AI/Turret_Player/TurretTop.uasset" 186
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Particles/M_PaintGunParticle_Enemy.uasset" 187
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Particles/GPUParticleCollisionSystemEnemy.uasset" 188
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AI/Turret_Block/Turret_Block.uasset" 189
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Cinematic/StoryIntro2.uasset" 190
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StoryIntro2.uasset" 191
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Detail_N.uasset" 192
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_01_D.uasset" 193
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_01_N.uasset" 194
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_01_RM.uasset" 195
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_03_E.uasset" 196
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Uber.uasset" 197
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_02_D.uasset" 198
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_02_N.uasset" 199
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_02_RM.uasset" 200
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_02.uasset" 201
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_03_D.uasset" 202
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_03_N.uasset" 203
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_03_RM.uasset" 204
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_03_LightsOn.uasset" 205
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_04_D.uasset" 206
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_04_E.uasset" 207
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_04_N.uasset" 208
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_04_RM.uasset" 209
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_04.uasset" 210
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_04_LightsOn.uasset" 211
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_05_D.uasset" 212
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_05_E.uasset" 213
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_05_N.uasset" 214
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_05_RM.uasset" 215
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_05.uasset" 216
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_05_LightsOn.uasset" 217
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_06_D.uasset" 218
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_06_N.uasset" 219
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_06_RM.uasset" 220
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_06.uasset" 221
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_06_O.uasset" 222
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Uber_Cutout.uasset" 223
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout.uasset" 224
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_07_D.uasset" 225
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_07_N.uasset" 226
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_07_RM.uasset" 227
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_07.uasset" 228
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_08_D.uasset" 229
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_08_N.uasset" 230
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_08_RM.uasset" 231
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_08.uasset" 232
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_09_D.uasset" 233
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_09_E.uasset" 234
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_09_N.uasset" 235
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Textures/T_Pack_09_RM.uasset" 236
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_09.uasset" 237
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_09_LightsOn.uasset" 238
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AI/Turret_Block/Default.uasset" 239
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 240
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_Turret_Top_Player.uasset" 241
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AI/Turret_Player/Turret_Player.uasset" 242
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AI/Turret_Block/Turret.uasset" 243
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AI/Turret_Block/TurretBase.uasset" 244
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AI/Turret_Block/TurretTop.uasset" 245
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AI/Turret_Player/Turret.uasset" 246
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect.uasset" 247
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Cinematic/Final_1.uasset" 248
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Cinematic/Final_2.uasset" 249
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Cinematic/Final_3.uasset" 250
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Cinematic/Final_4.uasset" 251
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Basic_Wall.uasset" 252
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 253
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect_Child_Pyramid_Final.uasset" 254
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect_Child_Pyramid.uasset" 255
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect_Pyramid.uasset" 256
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect_Child.uasset" 257
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/MaterialSphere.uasset" 258
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect_Sphere_Unlock.uasset" 259
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect_Child_Sphere.uasset" 260
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 261
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect_Child_Cylinder.uasset" 262
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect_Cylinder.uasset" 263
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 264
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 265
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 266
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 267
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 268
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 269
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 270
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 271
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldAlignedNormals_HighQuality.uasset" 272
+"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 273
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 274
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 275
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 276
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/HeightLerp.uasset" 277
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 278
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/clouds.uasset" 279
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/moss_bsm.uasset" 280
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/moss_nrm.uasset" 281
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/moss_rgm.uasset" 282
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock-a_ao.uasset" 283
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock-a_bsm.uasset" 284
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock-a_nrm.uasset" 285
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock-a_plx.uasset" 286
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock-a_rgm.uasset" 287
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_tiling_bsm-2.uasset" 288
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_tiling_nrm-2.uasset" 289
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/master_rock_world_material.uasset" 290
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock-b_bsm.uasset" 291
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock-b_nrm.uasset" 292
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock-b_plx.uasset" 293
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock-b_rgm.uasset" 294
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_detail_nrm.uasset" 295
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/rocks/boulder_b.uasset" 296
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b1.uasset" 297
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect_Child_Rock.uasset" 298
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect_Rock.uasset" 299
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_circle01_4x4.uasset" 300
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_circle01_4x4G_nonD.uasset" 301
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_auraWallWhite_4x4.uasset" 302
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_noise.uasset" 303
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_Fresnel.uasset" 304
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/Mfunction/MF_ky_VectorToRadialValue.uasset" 305
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_magicCircle020.uasset" 306
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_magicCircle020.uasset" 307
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_chantDecoC.uasset" 308
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_chantDecoA.uasset" 309
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_chantDecoAc.uasset" 310
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_base.uasset" 311
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_circleDust.uasset" 312
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_circleDust.uasset" 313
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Meshes/SM_ky_cylinderBend07.uasset" 314
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_magicCircle1.uasset" 315
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_magicCircle1.uasset" 316
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/PickUps/RestoreHealth.uasset" 317
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/PickUps/DecreaseMagazine.uasset" 318
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/PickUps/DeMa.uasset" 319
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/PickUps/IncreaseMagazine.uasset" 320
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/PickUps/InMa.uasset" 321
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/PickUps/M_DeMa.uasset" 322
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 323
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 324
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/PickUps/M_InMa.uasset" 325
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Water_N.uasset" 326
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/PickUps/M_ReMa.uasset" 327
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/PickUps/ReMa.uasset" 328
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 329
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 330
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 331
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 332
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 333
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 334
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 335
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 336
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 337
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 338
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 339
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 340
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 341
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 342
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 343
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 344
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 345
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 346
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 347
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 348
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 349
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 350
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 351
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_waterDust02.uasset" 352
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_storm01_aqua.uasset" 353
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_storm01_aqua_nonD.uasset" 354
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_aqua.uasset" 355
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_aquaStorm.uasset" 356
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_aquaStorm.uasset" 357
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_dynDust.uasset" 358
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_storm01_dark.uasset" 359
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_storm01_dark_nonD.uasset" 360
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_dark.uasset" 361
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_darkStorm.uasset" 362
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_darkStorm.uasset" 363
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_decoLines.uasset" 364
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_decoLinesB.uasset" 365
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_polar.uasset" 366
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_polarG_nonD.uasset" 367
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_bg.uasset" 368
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_subUV01.uasset" 369
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_shockwave12_4x4.uasset" 370
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_shockwave12_4x4.uasset" 371
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_hit2.uasset" 372
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_hit2.uasset" 373
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_smoke1.uasset" 374
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_smoke01.uasset" 375
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_polar_two.uasset" 376
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 377
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_primitive.uasset" 378
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_primitive2b_trs.uasset" 379
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_two.uasset" 380
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_explosion.uasset" 381
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_explosion.uasset" 382
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_flare25_4x4.uasset" 383
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_flare25_4x4.uasset" 384
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_hit1.uasset" 385
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_hit1.uasset" 386
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_lightning2.uasset" 387
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_lightning2.uasset" 388
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_polar_primitive.uasset" 389
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_deco_rainbow.uasset" 390
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_trail_primitive.uasset" 391
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_subUV03.uasset" 392
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_flareVertical03_4x4.uasset" 393
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_flareVertical03b_4x4.uasset" 394
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_shine01B.uasset" 395
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_shockwave10_4x4.uasset" 396
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_shockwave10R_4x4_nonD.uasset" 397
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_shootingStar1.uasset" 398
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_shootingStar1.uasset" 399
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_fireBall.uasset" 400
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_flare3.uasset" 401
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_maskRGB5.uasset" 402
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_flarePillar.uasset" 403
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_flareVert.uasset" 404
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_flareVert.uasset" 405
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_aura9.uasset" 406
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_aura9.uasset" 407
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_polarC_two.uasset" 408
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Meshes/SM_ky_planeBend.uasset" 409
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Meshes/SM_ky_quads.uasset" 410
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Meshes/SM_ky_windSmokeVertRot.uasset" 411
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_shotShockwave.uasset" 412
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_fireBall.uasset" 413
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_shotSpawn.uasset" 414
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_smoke01.uasset" 415
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_smoke01b.uasset" 416
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_thunderBall.uasset" 417
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_ThunderBallHit.uasset" 418
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_thunderBall.uasset" 419
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_ThunderBallHit.uasset" 420
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_thunderForBeam.uasset" 421
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_shockWave03_4x4.uasset" 422
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_shockWave03_4x4.uasset" 423
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_shockWave03g_4x4.uasset" 424
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder.uasset" 425
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD.uasset" 426
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_thunderStorm.uasset" 427
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_thunderStorm.uasset" 428
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_smoke01c.uasset" 429
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_waterBall.uasset" 430
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_waterBallHit.uasset" 431
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_waterBall.uasset" 432
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_waterBallHit.uasset" 433
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 434
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit.uasset" 435
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall.uasset" 436
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Physical_Materials/Rubber.uasset" 437
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall.uasset" 438
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Physical_Materials/Metal.uasset" 439
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall3.uasset" 440
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall_Inst_NamePlate.uasset" 441
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall_Inst_BaseFloor.uasset" 442
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.uasset" 443
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall2.uasset" 444
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_Base.uasset" 445
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_Base2.uasset" 446
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_Base_FlatWall.uasset" 447
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_BaseRoom.uasset" 448
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_NamePlate.uasset" 449
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay.uasset" 450
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Textures/T_UnrealEngineDecal.uasset" 451
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/M_Glass.uasset" 452
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Textures/T_Pattern_M.uasset" 453
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern.uasset" 454
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWallPattern.uasset" 455
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored.uasset" 456
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_NoText.uasset" 457
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Textures/T_RoomTiles_M.uasset" 458
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Textures/T_RoomTiles_N.uasset" 459
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/M_DemoRoomTiles.uasset" 460
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Physical_Materials/Concrete.uasset" 461
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/MI_DemoRoomTiles.uasset" 462
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/MI_Glass.uasset" 463
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.uasset" 464
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider1.uasset" 465
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider2.uasset" 466
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall.uasset" 467
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall_MattPlastic.uasset" 468
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall2.uasset" 469
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/M_LightTube.uasset" 470
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Materials/MI_LightTube.uasset" 471
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp.uasset" 472
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp2.uasset" 473
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomL.uasset" 474
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomLTrim.uasset" 475
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim.uasset" 476
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim2.uasset" 477
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrimAdd.uasset" 478
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU.uasset" 479
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU2.uasset" 480
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU_Hole.uasset" 481
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall.uasset" 482
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall2.uasset" 483
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom.uasset" 484
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Geometry/Meshes/CubeMaterial.uasset" 485
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 486
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Geometry/Meshes/TemplateFloor.uasset" 487
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 488
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 489
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 490
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 491
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 492
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 493
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Animations/ThirdPersonRun.uasset" 494
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 495
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 496
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 497
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 498
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 499
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 500
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 501
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 502
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 503
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 504
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 505
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 506
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 507
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 508
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 509
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 510
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 511
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 512
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 513
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Particles/GPUParticleCollisionSystem.uasset" 514
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/EPIC_StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 515
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/EPIC_StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 516
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/EPIC_StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 517
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 518
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/EPIC_StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 519
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/EPIC_StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 520
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/EPIC_StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 521
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 522
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/EPIC_StarterContent/Blueprints/Assets/Skybox.uasset" 523
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/EPIC_StarterContent/Blueprints/Assets/SM_Arrows.uasset" 524
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/EPIC_StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 525
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/EPIC_StarterContent/Blueprints/BP_LightStudio.uasset" 526
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 527
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/grass_alpha_bsm.uasset" 528
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/grass_alpha_nrm.uasset" 529
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/grass_alpha_rgm.uasset" 530
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/master_foliage.uasset" 531
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/leaves_banana_bsm.uasset" 532
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/leaves_banana_nrm.uasset" 533
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/leaves_banana_rgm.uasset" 534
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/leaves/leaves_banana.uasset" 535
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_banana_02.uasset" 536
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/leaves/leaves_banana_b.uasset" 537
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/leaves_fern_bsm.uasset" 538
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/leaves_fern_nrm.uasset" 539
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/leaves_fern_rgm.uasset" 540
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/leaves/leaves_fern.uasset" 541
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_fern_01.uasset" 542
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/leaves/leaves_fern_a.uasset" 543
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/leaves/leaves_fern_a_large.uasset" 544
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_fern_02.uasset" 545
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/leaves/leaves_fern_b.uasset" 546
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/leaves/leaves_fern_b_large.uasset" 547
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wind_function/wind_branches.uasset" 548
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/leaves_tree_bsm.uasset" 549
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/leaves_tree_nrm.uasset" 550
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/leaves_tree_rgm.uasset" 551
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/master_leaves.uasset" 552
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/leaves/tree_leaves_01.uasset" 553
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/leaves/tree_leaves_01_cheap_distant.uasset" 554
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Coordinates/UVRemap_0-1_ToRange.uasset" 555
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 556
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/tree_bark_01_ao.uasset" 557
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/tree_bark_01_bsm-1.uasset" 558
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/tree_bark_01_nrm.uasset" 559
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/tree_bark_01_plx.uasset" 560
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/tree_bark_01_rgm.uasset" 561
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/master_spline_material.uasset" 562
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wood/tree_branch_a_spline.uasset" 563
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wood/tree_branch_a.uasset" 564
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_tree_01.uasset" 565
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/leaves/leaves_tree_a.uasset" 566
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/master_rocks_small.uasset" 567
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_small_tiling4_bsm.uasset" 568
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_small_tiling_nrm.uasset" 569
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_small_tiling_rgm.uasset" 570
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/rocks/rocks_small_e.uasset" 571
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_a1.uasset" 572
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/rocks_small/rock_group_small_a1.uasset" 573
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_tiling-01_bsm.uasset" 574
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/rocks/rocks_small_a.uasset" 575
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_a3.uasset" 576
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/rocks_small/rock_group_small_a4.uasset" 577
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_b1.uasset" 578
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/rocks_small/rock_group_small_b1.uasset" 579
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_small_tiling0_bsm.uasset" 580
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/rocks/rocks_small_b.uasset" 581
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_b2.uasset" 582
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/rocks_small/rock_group_small_b2.uasset" 583
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_small_tiling1_bsm.uasset" 584
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/rocks/rocks_small_c_vertical_moss.uasset" 585
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_b3.uasset" 586
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/rocks_small/rock_group_small_b3.uasset" 587
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_b4.uasset" 588
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/rocks_small/rock_group_small_b4.uasset" 589
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/rocks/rocks_small_a2.uasset" 590
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_c1.uasset" 591
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/rocks_small/rock_group_small_c1.uasset" 592
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/rocks/rocks_small_c.uasset" 593
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_c2.uasset" 594
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/rocks_small/rock_group_small_c2.uasset" 595
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_c3.uasset" 596
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/rocks_small/rock_group_small_c3.uasset" 597
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 598
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_ground_mud-1_bsm.uasset" 599
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_ground_mud-1_nrm.uasset" 600
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_ground_mud-1_rgm.uasset" 601
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_ground_mud_plx.uasset" 602
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/terrain_function_materials/layer1_master.uasset" 603
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/ground_mud_bsm_8192.uasset" 604
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/ground_mud_nrm_8192.uasset" 605
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/ground_mud_plx_8192.uasset" 606
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/ground_mud_rgm_8192.uasset" 607
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/terrain_function_materials/layer2_master.uasset" 608
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rubble_ground_bsm.uasset" 609
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rubble_ground_nrm.uasset" 610
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rubble_ground_plx.uasset" 611
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rubble_ground_rgm.uasset" 612
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/terrain_function_materials/layer3_master.uasset" 613
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/master_terrain_material_function_blend.uasset" 614
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/rocks/boulder_b2.uasset" 615
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/master_terrain_blend.uasset" 616
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/ground_mud_no_puddle_bsm_8192.uasset" 617
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/ground_mud_no_puddle_nrm_8192.uasset" 618
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/ground_mud_no_puddle_rgm_8192.uasset" 619
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_ground_mud-1_no_puddle_bsm.uasset" 620
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_ground_mud-1_no_puddle_nrm.uasset" 621
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_ground_mud-1_no_puddle_rgm.uasset" 622
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_ground_mud_no_puddle_plx.uasset" 623
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/terrain_blended_materials/grass_dirt_cobblestone_no_puddles.uasset" 624
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/terrain_blended_materials/grass_mud_cobblestone.uasset" 625
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/terrain_blended_materials/grass_mud_cobblestone_puddles.uasset" 626
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_ground_mud-1_AO.uasset" 627
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_ground_mud-1_plx.uasset" 628
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/master_terrain_material.uasset" 629
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/terrain_materials/cobblestone_ground.uasset" 630
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/terrain_materials/dirt_ground_large.uasset" 631
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/terrain_materials/grass_w_puddles_rocks.uasset" 632
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_ground_mud-1_no_puddle_plx.uasset" 633
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/terrain_materials/grass_w_rocks.uasset" 634
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/terrain_materials/muddy_ground_large.uasset" 635
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/water_river_flow_nrm.uasset" 636
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/water_river_flow_plx.uasset" 637
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/water_river_foam_bsm.uasset" 638
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/master_river_flow.uasset" 639
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/water/river_flow_b.uasset" 640
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wood/tree_a.uasset" 641
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/tree_bark_variation_02_bsm.uasset" 642
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/tree_bark_variation_02_nrm.uasset" 643
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/tree_bark_variation_02_plx.uasset" 644
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/tree_bark_variation_02_rgm.uasset" 645
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wood/tree_bark_b_spline.uasset" 646
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wood/tree_bark_b_spline_cheap_distant.uasset" 647
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wood/tree_branch_a_distant_cheap.uasset" 648
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wood/tree_branch_b_spline.uasset" 649
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wood/tree_branch_b_spline_distant_cheap.uasset" 650
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_tree_bare_branch_01.uasset" 651
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_tree_bare_branch_02.uasset" 652
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wood/tree_branch_b.uasset" 653
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_tree_b_01.uasset" 654
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_tree_b_02.uasset" 655
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_tree_b_bare_branch_01.uasset" 656
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_tree_b_bare_branch_02.uasset" 657
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_vine_03-1.uasset" 658
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_vine_04.uasset" 659
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_vine_bare_branch_01-1.uasset" 660
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_vine_bare_branch_01.uasset" 661
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_vine_bare_branch_03.uasset" 662
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/rocks/boulder_a.uasset" 663
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_a.uasset" 664
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/rocks/boulder_c.uasset" 665
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b2.uasset" 666
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/rocks/boulder_b_Procedural_Moss.uasset" 667
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_boulders/rock_boulder_b3.uasset" 668
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_small_tiling3_bsm.uasset" 669
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/rocks/rocks_small_d.uasset" 670
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_a4.uasset" 671
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/tree_bark/tree_bark_a.uasset" 672
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/trees_w_roots/large_tree_w_roots_a.uasset" 673
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wood/tree_bark_a_spline.uasset" 674
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/vine_loop_segments/vine_small_a_end.uasset" 675
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/vine_loop_segments/vine_small_a_loop.uasset" 676
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Spline_BluePrints/data/River_Scale_Data.uasset" 677
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/water/river_flow_a.uasset" 678
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/water/river-plane-a.uasset" 679
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Spline_BluePrints/master_river_spline.uasset" 680
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Spline_BluePrints/data/Tree_Twist_Data.uasset" 681
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wood/tree_branch_a_spline_distant_cheap.uasset" 682
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/grass/grass_a.uasset" 683
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/grass/grass_a_cheap_distant.uasset" 684
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/grass/grass_small_01.uasset" 685
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_tree_02.uasset" 686
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wood/tree_bark_a_spline_cheap_distant.uasset" 687
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/tree_roots_segments/tree-root-large-a-end.uasset" 688
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/tree_roots_segments/tree-root-large-a-root.uasset" 689
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Spline_BluePrints/master_tree_branch_spline.uasset" 690
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Spline_BluePrints/master_tree_branch_spline_no_auto_scale.uasset" 691
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/wood/tree_bark_a_no_moss_spline.uasset" 692
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Spline_BluePrints/master_tree_root_spline.uasset" 693
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Spline_BluePrints/master_tree_root_with_moss_spline.uasset" 694
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_vine_01.uasset" 695
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_vine_02.uasset" 696
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_vine_03.uasset" 697
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_vine_bare_branch_02.uasset" 698
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/vine_loop_segments/vine-large-a-end.uasset" 699
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/vine_loop_segments/vine-large-a-loop.uasset" 700
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Spline_BluePrints/master_vine_spline.uasset" 701
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/ground_mud_no_puddle_spe_8192.uasset" 702
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/leaves_banana_plx.uasset" 703
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/leaves_tree_plx.uasset" 704
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_ground_mud-1_spe.uasset" 705
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Textures/rock_tiling_rgm-2.uasset" 706
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_AssaultRifle_Ammo.uasset" 707
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_AssaultRifle_Pickup.uasset" 708
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_GrenadeLauncherScope_E.uasset" 709
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_GrenadeLauncherVer1_Inst.uasset" 710
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_GrenadeLauncher_PhysicsAsset.uasset" 711
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_GrenadeLauncher_Skeleton.uasset" 712
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_GrenadeLauncher.uasset" 713
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_GrenadeLauncher_Ammo.uasset" 714
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_GrenadeLauncher_Pickup.uasset" 715
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_Knife_D.uasset" 716
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_Knife_M.uasset" 717
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_Knife_N.uasset" 718
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_Knife.uasset" 719
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_Knife_PhysicsAsset.uasset" 720
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_Knife_Skeleton.uasset" 721
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_Knife.uasset" 722
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_Pistol_D.uasset" 723
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_Pistol_M.uasset" 724
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_Pistol_N.uasset" 725
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_PistolVer1_Inst.uasset" 726
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_Pistol_PhysicsAsset.uasset" 727
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_Pistol_Skeleton.uasset" 728
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_Pistol.uasset" 729
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_Pistol_Ammo.uasset" 730
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_Pistol_Pickup.uasset" 731
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_RocketLauncher_D.uasset" 732
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_RocketLauncher_M.uasset" 733
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_RocketLauncher_N.uasset" 734
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_RocketLauncherVer1_Inst.uasset" 735
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_RocketLauncher_PhysicsAsset.uasset" 736
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_RocketLauncher_Skeleton.uasset" 737
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_RocketLauncher.uasset" 738
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_RocketLauncher_Ammo.uasset" 739
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_RocketLauncher_Pickup.uasset" 740
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_Shotgun_D.uasset" 741
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_Shotgun_M.uasset" 742
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_Shotgun_N.uasset" 743
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_ShotgunVer1_Inst.uasset" 744
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_Shotgun_PhysicsAsset.uasset" 745
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_Shotgun_Skeleton.uasset" 746
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_Shotgun.uasset" 747
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_Shotgun_Ammo.uasset" 748
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_Shotgun_Pickup.uasset" 749
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_SniperRifle_D.uasset" 750
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_SniperRifle_M.uasset" 751
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_SniperRifle_N.uasset" 752
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Textures/T_Prototype_SniperRifleScope_E.uasset" 753
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_SniperRifle_Inst.uasset" 754
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_SniperRifle_PhysicsAsset.uasset" 755
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_SniperRifle_Skeleton.uasset" 756
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_SniperRifle.uasset" 757
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_SniperRifle_Ammo.uasset" 758
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Prototype_SniperRifle_Pickup.uasset" 759
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Textures/T_LightStreak_01.uasset" 760
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Materials/M_LightStreak_01.uasset" 761
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Textures/T_GlowSphere_01.uasset" 762
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Materials/M_Pop_01.uasset" 763
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Textures/T_SmokeSimple_01.uasset" 764
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Materials/M_SmokeSimple_01.uasset" 765
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_Grenadeauncher_MuzzleFlash.uasset" 766
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Attenuation/WeaponShot_att.uasset" 767
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Fire01.uasset" 768
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Fire02.uasset" 769
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Fire03.uasset" 770
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Fire04.uasset" 771
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Fire05.uasset" 772
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Fire06.uasset" 773
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Fire_ST01.uasset" 774
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Fire_ST02.uasset" 775
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Fire_ST03.uasset" 776
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Fire_ST04.uasset" 777
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Fire_ST05.uasset" 778
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Fire_ST06.uasset" 779
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Fire_Cue.uasset" 780
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Fire_GrenadeLauncher_W.uasset" 781
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Textures/T_SparkImpacts_2x2_01.uasset" 782
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Materials/M_SparksImpact_2x2_01.uasset" 783
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_Pistol_MuzzleFlash.uasset" 784
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolA_Fire01.uasset" 785
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolA_Fire02.uasset" 786
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolA_Fire03.uasset" 787
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolA_Fire04.uasset" 788
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolA_Fire05.uasset" 789
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolA_Fire_ST01.uasset" 790
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolA_Fire_ST02.uasset" 791
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolA_Fire_ST03.uasset" 792
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolA_Fire_ST04.uasset" 793
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolA_Fire_ST05.uasset" 794
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolA_Fire_Cue.uasset" 795
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Fire_Pistol_W.uasset" 796
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_AssaultRifle_MuzzleFlash.uasset" 797
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_Fire01.uasset" 798
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_Fire02.uasset" 799
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_Fire03.uasset" 800
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_Fire04.uasset" 801
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_Fire05.uasset" 802
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_Fire_ST01.uasset" 803
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_Fire_ST02.uasset" 804
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_Fire_ST03.uasset" 805
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_Fire_ST04.uasset" 806
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_Fire_ST05.uasset" 807
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_Fire_Cue.uasset" 808
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Fire_Rifle_W.uasset" 809
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_RocketLauncher_MuzzleFlash.uasset" 810
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA01.uasset" 811
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA02.uasset" 812
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA03.uasset" 813
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA04.uasset" 814
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA05.uasset" 815
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA06.uasset" 816
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA07.uasset" 817
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA_ST01.uasset" 818
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA_ST02.uasset" 819
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA_ST03.uasset" 820
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA_ST04.uasset" 821
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA_ST05.uasset" 822
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA_ST06.uasset" 823
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA_ST07.uasset" 824
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireA_Cue.uasset" 825
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Fire_RocketLauncher_W.uasset" 826
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Textures/T_Spark_01.uasset" 827
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Materials/M_Spark_01.uasset" 828
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_Shotgun_MuzzleFlash.uasset" 829
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Fire01.uasset" 830
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Fire02.uasset" 831
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Fire03.uasset" 832
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Fire04.uasset" 833
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Fire05.uasset" 834
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Fire_ST01.uasset" 835
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Fire_ST02.uasset" 836
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Fire_ST03.uasset" 837
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Fire_ST04.uasset" 838
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Fire_ST05.uasset" 839
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Fire_Cue.uasset" 840
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Attenuation/WeaponHandling_att.uasset" 841
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Reload01.uasset" 842
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Reload02.uasset" 843
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Reload03.uasset" 844
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Reload_Cue.uasset" 845
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Fire_Shotgun_W.uasset" 846
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_SniperRifle_MuzzleFlash.uasset" 847
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Fire01.uasset" 848
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Fire02.uasset" 849
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Fire03.uasset" 850
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Fire04.uasset" 851
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Fire05.uasset" 852
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Fire06.uasset" 853
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Fire_ST01.uasset" 854
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Fire_ST02.uasset" 855
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Fire_ST03.uasset" 856
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Fire_ST04.uasset" 857
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Fire_ST05.uasset" 858
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Fire_ST06.uasset" 859
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Fire_Cue.uasset" 860
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Fire_SniperRifle_W.uasset" 861
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_Reload01.uasset" 862
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_Reload02.uasset" 863
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_Reload03.uasset" 864
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_Reload04.uasset" 865
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_Reload05.uasset" 866
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_Reload_Cue.uasset" 867
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_ReloadMagEject.uasset" 868
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_ReloadMagEject_Cue.uasset" 869
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Prone_Reload_Rifle_W.uasset" 870
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadIn01.uasset" 871
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadIn02.uasset" 872
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadIn03.uasset" 873
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadIn_Cue.uasset" 874
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadOut01.uasset" 875
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadOut02.uasset" 876
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadOut03.uasset" 877
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadOut_Cue.uasset" 878
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Prone_Reload_Shotgun_W.uasset" 879
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Reload01.uasset" 880
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Reload02.uasset" 881
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Reload03.uasset" 882
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Reload_Cue.uasset" 883
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_ReloadMagEject.uasset" 884
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_ReloadMagEject_Cue.uasset" 885
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_ReloadMagInsert.uasset" 886
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_ReloadMagInsert_Cue.uasset" 887
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Prone_Reload_SniperRifle_W.uasset" 888
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Reload01.uasset" 889
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Reload02.uasset" 890
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Reload03.uasset" 891
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Reload_Cue.uasset" 892
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_ReloadGrab.uasset" 893
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_ReloadGrab_Cue.uasset" 894
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_ReloadInsert.uasset" 895
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_ReloadInsert_Cue.uasset" 896
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Reload_GrenadeLauncher_W.uasset" 897
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_Reload01.uasset" 898
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_Reload02.uasset" 899
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_Reload03.uasset" 900
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_Reload_Cue.uasset" 901
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_ReloadMagEject01.uasset" 902
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_ReloadMagEject_Cue.uasset" 903
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Reload_Pistol_W.uasset" 904
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Reload_Rifle_Hips_W.uasset" 905
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Reload_Rifle_Ironsights_W.uasset" 906
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Reload01.uasset" 907
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Reload02.uasset" 908
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Reload03.uasset" 909
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Reload_Cue.uasset" 910
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_ReloadInsert01.uasset" 911
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_ReloadInsert02.uasset" 912
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_ReloadIn_Cue.uasset" 913
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Reload_RocketLauncher_W.uasset" 914
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Reload_Shotgun_Hips_W.uasset" 915
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Reload_Shotgun_Ironsights_W.uasset" 916
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Reload_SniperRifle_Hips_W.uasset" 917
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Anims/Reload_SniperRifle_Ironsights_W.uasset" 918
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Materials/M_Tracer_01.uasset" 919
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Meshes/St_Tracer_A.uasset" 920
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_AssaultRifle_Tracer.uasset" 921
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Textures/T_Ember_01.uasset" 922
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Materials/M_Ember_01.uasset" 923
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Textures/T_SphereNoise_01.uasset" 924
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Materials/M_SphereNoise_01.uasset" 925
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Meshes/St_Sphere_01.uasset" 926
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_GrenadeLauncher_Explosion_01.uasset" 927
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_GrenadeLauncher_Trail.uasset" 928
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_Impact_01.uasset" 929
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Textures/T_Knife_RibbonGradient_01.uasset" 930
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/Materials/M_Knife_RibbonTrail_01.uasset" 931
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_Knife_RibbonTrail.uasset" 932
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_Pistol_Tracer.uasset" 933
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_RocketLauncher_Explosion.uasset" 934
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_RocketLauncher_Trail.uasset" 935
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/FX/P_Shotgun_Tracer.uasset" 936
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_AssualtRifleVer2_Inst.uasset" 937
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_GrenadeLauncherVer2_Inst.uasset" 938
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_PistolVer2_Inst.uasset" 939
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_RocketLauncherVer2_Inst.uasset" 940
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_ShotgunVer2_Inst.uasset" 941
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Materials/M_SniperRifleVer2_Inst.uasset" 942
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Attenuation/WeaponShotClose_Att.uasset" 943
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_AmmoPickup.uasset" 944
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_AmmoPickup_Cue.uasset" 945
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Attenuation/ProjectileImpact_att.uasset" 946
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Bounce01.uasset" 947
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Bounce02.uasset" 948
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Bounce03.uasset" 949
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Bounce04.uasset" 950
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Bounce05.uasset" 951
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Bounce06.uasset" 952
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Bounce_Cue.uasset" 953
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Attenuation/Explosion_att.uasset" 954
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Explosion01.uasset" 955
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Explosion02.uasset" 956
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Explosion03.uasset" 957
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Explosion05.uasset" 958
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Explosion06.uasset" 959
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Explosion_Cue.uasset" 960
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Lower.uasset" 961
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Lower_Cue.uasset" 962
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Raise.uasset" 963
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/GrenadeLauncher/GL_Raise_Cue.uasset" 964
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactBody01.uasset" 965
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactBody02.uasset" 966
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactBody03.uasset" 967
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactBody04.uasset" 968
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactBody05.uasset" 969
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactBody_Cue.uasset" 970
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactSurface_Hard01.uasset" 971
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactSurface_Hard02.uasset" 972
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactSurface_Hard03.uasset" 973
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactSurface_Hard04.uasset" 974
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactSurface_Hard05.uasset" 975
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Impact_Hard_Cue.uasset" 976
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactSurface_Light01.uasset" 977
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactSurface_Light02.uasset" 978
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactSurface_Light03.uasset" 979
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactSurface_Light04.uasset" 980
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_ImpactSurface_Light05.uasset" 981
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Impact_Light_Cue.uasset" 982
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Lower.uasset" 983
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Lower_Cue.uasset" 984
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Pickup.uasset" 985
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Pickup_Cue.uasset" 986
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Raise.uasset" 987
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Raise_Cue.uasset" 988
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Swish01.uasset" 989
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Swish02.uasset" 990
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Swish03.uasset" 991
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Swish04.uasset" 992
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Swish05.uasset" 993
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Swish06.uasset" 994
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Knife/Knife_Swish_Cue.uasset" 995
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire01.uasset" 996
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire02.uasset" 997
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire03.uasset" 998
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire04.uasset" 999
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire05.uasset" 1000
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire06.uasset" 1001
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire07.uasset" 1002
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire_Cue.uasset" 1003
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire_ST01.uasset" 1004
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire_ST02.uasset" 1005
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire_ST03.uasset" 1006
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire_ST04.uasset" 1007
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire_ST05.uasset" 1008
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire_ST06.uasset" 1009
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/PistolB_Fire_ST07.uasset" 1010
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_AmmoPickup.uasset" 1011
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_AmmoPickup_Cue.uasset" 1012
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletImpact01.uasset" 1013
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletImpact02.uasset" 1014
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletImpact03.uasset" 1015
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletImpact04.uasset" 1016
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletImpact05.uasset" 1017
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletImpact06.uasset" 1018
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletImpact07.uasset" 1019
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletImpact_Cue.uasset" 1020
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletWhip01.uasset" 1021
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletWhip02.uasset" 1022
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletWhip03.uasset" 1023
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletWhip04.uasset" 1024
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletWhip05.uasset" 1025
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletWhip06.uasset" 1026
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletWhip07.uasset" 1027
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_BulletWhip_Cue.uasset" 1028
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_Lower01.uasset" 1029
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_Lower_Cue.uasset" 1030
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_Raise01.uasset" 1031
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_Raise_Cue.uasset" 1032
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_ReloadMagEject02.uasset" 1033
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_ReloadMagInsert.uasset" 1034
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Pistol/Pistol_ReloadMagInsert_Cue.uasset" 1035
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_FireLoopEnd.uasset" 1036
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_FireLoopEnd_ST.uasset" 1037
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_FireEnd_Cue.uasset" 1038
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_FireLoop.uasset" 1039
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_FireLoop_ST.uasset" 1040
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_FireLoop_Cue.uasset" 1041
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_Fire01.uasset" 1042
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_Fire02.uasset" 1043
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_Fire03.uasset" 1044
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_Fire04.uasset" 1045
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_Fire05.uasset" 1046
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_Fire_ST01.uasset" 1047
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_Fire_ST02.uasset" 1048
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_Fire_ST03.uasset" 1049
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_Fire_ST04.uasset" 1050
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_Fire_ST05.uasset" 1051
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleB_Fire_Cue.uasset" 1052
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_AmmoPickup.uasset" 1053
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_AmmoPickup_Cue.uasset" 1054
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletImpact01.uasset" 1055
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletImpact02.uasset" 1056
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletImpact03.uasset" 1057
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletImpact04.uasset" 1058
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletImpact05.uasset" 1059
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletImpact06.uasset" 1060
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletImpact_Cue.uasset" 1061
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletWhip01.uasset" 1062
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletWhip02.uasset" 1063
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletWhip03.uasset" 1064
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletWhip04.uasset" 1065
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletWhip05.uasset" 1066
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletWhip06.uasset" 1067
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_BulletWhip07.uasset" 1068
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_FireLoopEnd.uasset" 1069
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_FireLoopEnd_ST.uasset" 1070
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_FireEnd_Cue.uasset" 1071
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_FireLoop.uasset" 1072
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/RifleA_FireLoop_ST.uasset" 1073
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_FireLoop_Cue.uasset" 1074
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_Lower01.uasset" 1075
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_Lower02.uasset" 1076
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_Lower_Cue.uasset" 1077
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_Raise01.uasset" 1078
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_Raise02.uasset" 1079
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_Raise_Cue.uasset" 1080
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_ReloadMagInsert.uasset" 1081
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Rifle/Rifle_ReloadMagInsert_Cue.uasset" 1082
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_AmmoPickup.uasset" 1083
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_AmmoPickup_Cue.uasset" 1084
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Explosion01.uasset" 1085
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Explosion02.uasset" 1086
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Explosion03.uasset" 1087
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Explosion04.uasset" 1088
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Explosion05.uasset" 1089
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Explosion_Cue.uasset" 1090
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireB01.uasset" 1091
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireB02.uasset" 1092
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireB03.uasset" 1093
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireB04.uasset" 1094
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireB05.uasset" 1095
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireB_ST01.uasset" 1096
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireB_ST02.uasset" 1097
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireB_ST03.uasset" 1098
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireB_ST04.uasset" 1099
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireB_ST05.uasset" 1100
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_FireB_Cue.uasset" 1101
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Attenuation/RocketLoop_att.uasset" 1102
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_InAirLoop.uasset" 1103
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_InAirLoop_Cue.uasset" 1104
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Lower01.uasset" 1105
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Lower02.uasset" 1106
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Lower_Cue.uasset" 1107
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Raise01.uasset" 1108
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Raise02.uasset" 1109
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_Raise_Cue.uasset" 1110
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_ReloadEject01.uasset" 1111
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_ReloadEject02.uasset" 1112
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_ReloadEject_Cue.uasset" 1113
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/RocketLauncher/RL_ReloadInsert03.uasset" 1114
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_AmmoPickup.uasset" 1115
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_AmmoPickup_Cue.uasset" 1116
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_BulletImpact01.uasset" 1117
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_BulletImpact02.uasset" 1118
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_BulletImpact03.uasset" 1119
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_BulletImpact04.uasset" 1120
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_BulletImpact05.uasset" 1121
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_BulletImpactA_Cue.uasset" 1122
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_BulletImpactB05.uasset" 1123
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_BulletImpactB06.uasset" 1124
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_BulletImpactB08.uasset" 1125
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_BulletImpactB12.uasset" 1126
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_BulletImpactB16.uasset" 1127
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_BulletImpactB_Cue.uasset" 1128
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Lower.uasset" 1129
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Lower_Cue.uasset" 1130
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Raise.uasset" 1131
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_Raise_Cue.uasset" 1132
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadShell01.uasset" 1133
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadShell02.uasset" 1134
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadShell03.uasset" 1135
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadShell04.uasset" 1136
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadShell05.uasset" 1137
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/Shotgun/Shotgun_ReloadShell_Cue.uasset" 1138
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_AmmoPickup01.uasset" 1139
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_AmmoPickup01_Cue.uasset" 1140
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_AmmoPickup02.uasset" 1141
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_AmmoPickup02_Cue.uasset" 1142
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_AmmoPickup03.uasset" 1143
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_AmmoPickup03_Cue.uasset" 1144
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_BulletImpact01.uasset" 1145
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_BulletImpact02.uasset" 1146
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_BulletImpact03.uasset" 1147
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_BulletImpact04.uasset" 1148
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_BulletImpact05.uasset" 1149
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_BulletImpact_Cue.uasset" 1150
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_BulletWhip01.uasset" 1151
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_BulletWhip02.uasset" 1152
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_BulletWhip03.uasset" 1153
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_BulletWhip04.uasset" 1154
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_BulletWhip05.uasset" 1155
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_BulletWhip06.uasset" 1156
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_BulletWhip_Cue.uasset" 1157
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Lower.uasset" 1158
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Lower_Cue.uasset" 1159
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Raise.uasset" 1160
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_Raise_Cue.uasset" 1161
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_ZoomIn.uasset" 1162
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_ZoomIn_Cue.uasset" 1163
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_ZoomOut.uasset" 1164
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PrototypeWeap/Sound/SniperRifle/SR_ZoomOut_Cue.uasset" 1165
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Collapse01.uasset" 1166
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Collapse02.uasset" 1167
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Collapse_Cue.uasset" 1168
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Explosion01.uasset" 1169
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Explosion02.uasset" 1170
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Fire01.uasset" 1171
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Fire_Sparks01.uasset" 1172
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Light01.uasset" 1173
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Light01_Cue.uasset" 1174
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Light02.uasset" 1175
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Light02_Cue.uasset" 1176
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Smoke01.uasset" 1177
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1178
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Starter_Birds01.uasset" 1179
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Starter_Music01.uasset" 1180
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Starter_Wind05.uasset" 1181
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Starter_Wind06.uasset" 1182
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Steam01.uasset" 1183
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Explosion_Cue.uasset" 1184
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1185
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Fire01_Cue.uasset" 1186
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1187
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1188
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1189
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1190
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/P_Fire.uasset" 1191
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1192
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1193
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1194
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1195
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1196
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Steam01_Cue.uasset" 1197
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1198
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1199
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1200
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1201
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1202
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1203
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1204
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1205
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1206
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1207
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1208
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1209
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1210
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1211
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1212
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1213
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1214
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1215
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1216
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1217
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1218
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1219
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1220
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1221
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1222
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1223
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1224
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1225
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1226
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1227
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1228
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1229
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1230
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1231
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1232
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1233
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1234
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1235
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1236
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1237
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1238
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1239
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1240
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1241
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1242
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1243
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 1244
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1245
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1246
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1247
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1248
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1249
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1250
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1251
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1252
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1253
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1254
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1255
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1256
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1257
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1258
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1259
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1260
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1261
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1262
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1263
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1264
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1265
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1266
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1267
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1268
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1269
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1270
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1271
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1272
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1273
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1274
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 1275
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1276
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1277
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1278
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1279
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1280
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1281
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1282
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1283
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1284
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1285
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1286
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1287
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1288
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1289
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1290
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1291
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1292
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1293
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1294
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1295
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1296
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Water_Lake.uasset" 1297
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Water_M.uasset" 1298
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1299
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1300
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1301
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1302
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1303
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1304
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1305
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1306
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1307
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1308
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1309
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1310
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1311
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1312
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1313
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1314
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Bush_D.uasset" 1315
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Bush_N.uasset" 1316
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/Materials/M_Bush.uasset" 1317
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_Bush.uasset" 1318
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Chair_M.uasset" 1319
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Chair_N.uasset" 1320
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/Materials/M_Chair.uasset" 1321
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_Chair.uasset" 1322
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Frame_M.uasset" 1323
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Frame_N.uasset" 1324
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/Materials/M_Frame.uasset" 1325
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_CornerFrame.uasset" 1326
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_Couch.uasset" 1327
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Glass.uasset" 1328
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Door_M.uasset" 1329
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Door_N.uasset" 1330
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/Materials/M_Door.uasset" 1331
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_Door.uasset" 1332
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_DoorFrame.uasset" 1333
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_GlassWindow.uasset" 1334
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Lamp_M.uasset" 1335
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Lamp_N.uasset" 1336
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1337
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1338
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1339
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 1340
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 1341
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 1342
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_PillarFrame.uasset" 1343
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1344
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_RockMesh_M.uasset" 1345
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_RockMesh_N.uasset" 1346
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/Materials/M_Rock.uasset" 1347
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_Rock.uasset" 1348
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Shelf_M.uasset" 1349
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Shelf_N.uasset" 1350
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/Materials/M_Shelf.uasset" 1351
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_Shelf.uasset" 1352
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Basic_Floor.uasset" 1353
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_Stairs.uasset" 1354
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Statue_M.uasset" 1355
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_Statue_N.uasset" 1356
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/Materials/M_Statue.uasset" 1357
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1358
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_Statue.uasset" 1359
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_TableRound_M.uasset" 1360
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Textures/T_TableRound_N.uasset" 1361
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1362
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_TableRound.uasset" 1363
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Props/SM_WindowFrame.uasset" 1364
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Cone.uasset" 1365
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Cube.uasset" 1366
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1367
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Pipe.uasset" 1368
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 1369
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Plane.uasset" 1370
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1371
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Torus.uasset" 1372
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1373
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1374
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 1375
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Tube.uasset" 1376
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 1377
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1378
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1379
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 1380
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 1381
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1382
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 1383
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 1384
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 1385
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1386
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1387
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 1388
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 1389
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 1390
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 1391
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 1392
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 1393
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 1394
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 1395
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 1396
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 1397
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 1398
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 1399
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 1400
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 1401
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 1402
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 1403
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 1404
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 1405
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 1406
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 1407
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 1408
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1409
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1410
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 1411
+"../../../Engine/Content/EditorResources/S_Note.uasset" 1412
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 1413
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 1414
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 1415
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 1416
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1417
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1418
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 1419
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 1420
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 1421
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 1422
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 1423
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 1424
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1425
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 1426
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 1427
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 1428
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 1429
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 1430
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 1431
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 1432
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 1433
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 1434
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 1435
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 1436
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 1437
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 1438
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 1439
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 1440
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 1441
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 1442
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 1443
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 1444
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 1445
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 1446
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 1447
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 1448
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 1449
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 1450
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 1451
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 1452
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 1453
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 1454
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 1455
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 1456
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 1457
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 1458
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 1459
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 1460
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 1461
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 1462
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 1463
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 1464
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 1465
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 1466
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 1467
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 1468
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 1469
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 1470
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 1471
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 1472
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 1473
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 1474
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 1475
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 1476
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 1477
+"../../../Engine/Content/EngineSounds/Master.uasset" 1478
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 1479
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 1480
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 1481
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 1482
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 1483
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1484
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1485
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1486
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1487
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1488
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1489
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1490
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1491
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1492
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1493
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1494
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1495
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1496
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1497
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1498
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1499
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1500
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1501
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1502
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 1503
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 1504
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 1505
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 1506
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 1507
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1508
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1509
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1510
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 1511
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 1512
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 1513
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 1514
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1515
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1516
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 1517
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 1518
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 1519
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 1520
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 1521
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1522
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1523
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1524
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1525
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1526
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1527
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1528
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1529
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1530
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1531
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1532
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1533
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1534
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_storm01_fire.uasset" 1535
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_storm01_fire_nonD1.uasset" 1536
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_fire.uasset" 1537
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_fireStorm.uasset" 1538
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_fireStorm.uasset" 1539
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/PlayerBP/Blueprints/FirstPersonGameMode.uasset" 1540
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Levels/MainMenu_BuiltData.uasset" 1541
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_Lava.uasset" 1542
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_Lava_MainMenu.uasset" 1543
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Sounds/1_MainTheme.uasset" 1544
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Sounds/1_MainTheme_Cue.uasset" 1545
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Levels/MainMenu.umap" 1546
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Cinematic/Intro1.uasset" 1547
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Cinematic/StoryIntro.uasset" 1548
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/BP_Intro.uasset" 1549
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_Transparency.uasset" 1550
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffectTransparency.uasset" 1551
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/FloatingText.uasset" 1552
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/Invisible_Wall.uasset" 1553
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/KillPlane.uasset" 1554
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/Mfunction/MF_ky_UVcontrol_4x4.uasset" 1555
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_dust01_4x4.uasset" 1556
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_dust01_4x4.uasset" 1557
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_aura011_4x4.uasset" 1558
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4.uasset" 1559
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4_nonD.uasset" 1560
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_noise13_sml_nor.uasset" 1561
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_smoke03.uasset" 1562
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_auraWall02.uasset" 1563
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_auraWall02_two.uasset" 1564
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_maskCircle.uasset" 1565
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/M_ky_base_anime.uasset" 1566
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Textures/T_ky_circle9_4x4.uasset" 1567
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_circle9_4x4c2.uasset" 1568
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Materials/MI_ky_starDust_dis.uasset" 1569
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Meshes/SM_ky_auraWall_distB_kai.uasset" 1570
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Meshes/SM_ky_cylinder_lowPoly_dist.uasset" 1571
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Meshes/SM_ky_cylinder_superLow.uasset" 1572
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Particles/P_ky_healAura.uasset" 1573
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/FXVarietyPack/Blueprints/BP_ky_healAura.uasset" 1574
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/PickUps/ChangeLevel.uasset" 1575
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/grass/grass_a_medium.uasset" 1576
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/grass/grass_small_02.uasset" 1577
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/grass/grass_a_medium_flattened.uasset" 1578
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/grass/grass_a_small.uasset" 1579
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/grass/grass_a_small_flattened.uasset" 1580
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/leaves/leaves_banana_01.uasset" 1581
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/leaves/leaves_banana_a.uasset" 1582
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Meshes/rocks_small/rock_group_small_a2.uasset" 1583
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/rocks_small/rock_group_small_a2.uasset" 1584
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Foliage/rocks_small/rock_group_small_a3.uasset" 1585
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Landscape_Layerinfo/Layer1_LayerInfo.uasset" 1586
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Landscape_Layerinfo/Layer2_LayerInfo.uasset" 1587
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Landscape_Layerinfo/Layer3_LayerInfo.uasset" 1588
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Landscape_Layerinfo/Puddles_LayerInfo.uasset" 1589
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Levels/StartLevel_BuiltData.uasset" 1590
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_BaseColor_Blue.uasset" 1591
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_BaseColor_Green.uasset" 1592
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_BaseColor_Red.uasset" 1593
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/ProceduralNaturePack/Materials/terrain_blended_materials/grass_dirt_cobblestone_puddles.uasset" 1594
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1595
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1596
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1597
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/BlueArrow2.uasset" 1598
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/Flame.uasset" 1599
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/LeafIcon.uasset" 1600
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1601
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Levels/StartLevel.umap" 1602
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Cinematic/EndScene.uasset" 1603
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect_Sphere_Finish.uasset" 1604
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Cinematic/Final_5.uasset" 1605
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/BP_FinalScene.uasset" 1606
+"../../../Engine/Content/MapTemplates/Sky/M_BlackBackground.uasset" 1607
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Geometry/Meshes/1M_Cube.uasset" 1608
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/ColorEffectBlocks/ColorEffect_Turbine.uasset" 1609
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Blueprints/PickUps/RefillMagazine.uasset" 1610
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Cinematic/FirstTurbine.uasset" 1611
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Cinematic/Shot_1.uasset" 1612
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Cinematic/Shot_2.uasset" 1613
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Cinematic/Shot_3.uasset" 1614
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Levels/Story_BuiltData.uasset" 1615
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1616
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1617
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Materials/M_Lava_Story1.uasset" 1618
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_01.uasset" 1619
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Meshes/SM_Fence_Var03.uasset" 1620
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Materials/M_Inst_Pack_03.uasset" 1621
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/AdvancedVillagePack/Meshes/SM_Well_Extra01.uasset" 1622
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Sounds/sb_indreams_.uasset" 1623
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Sounds/sb_indreams__Cue.uasset" 1624
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 1625
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/StarterContent/Shapes/Shape_Trim.uasset" 1626
+"C:/Users/Felix/Documents/Unreal Projects/ChaosPainter/Content/Levels/Story.umap" 1627
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1628
+"../../../Engine/Content/Maps/Entry.umap" 1629
